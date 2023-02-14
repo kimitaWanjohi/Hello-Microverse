@@ -65,9 +65,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-<img src="Hello-Microverse-Project.png" alt="Hello-Microverse-IMG" width="auto"  height="auto" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
